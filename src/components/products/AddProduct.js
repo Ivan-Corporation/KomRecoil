@@ -73,6 +73,7 @@ const AddProduct = (props) => {
                     >
                       <option>Select Product Type</option>
                       <option value="trophies">trophies</option>
+                      <option value="seafood">seafood</option>
                       <option value="fruit">fruit</option>
                       <option value="vegetables">vegetables</option>
                       <option value="beverages">beverages</option>
